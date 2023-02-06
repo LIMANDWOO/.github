@@ -1,1 +1,1 @@
-![image](./profileBanner.png)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2f6728f1-fcfe-4854-bf3b-b505f495dd85/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230206T122157Z&X-Amz-Expires=86400&X-Amz-Signature=634efd768d6ab33021a774e0f4b3f0e5bfdabc7f71d85856e1ce90927d9c1d85&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
